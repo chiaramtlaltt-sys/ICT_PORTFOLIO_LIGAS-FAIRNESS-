@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Events 🗫</title>
+<link rel="stylesheet" href="stlyesqtr4.css" type="text/css">
+</head>
+
+<div class="containerfmly">
+
+<!-- HEADER -->
+<div class="headerfrnd">
+<div style="background-color:white; text-align:center;color:#2952a3;">
+<h1>My Family! -`♡´-</h1>
+</div>
+</div>
+
+<!-- CONTENT: LEFT & RIGHT BLOCKS STACKED -->
+<div class="contentfmly-vertical">
+<div class="topfmly">
+<div class="scroll-container">
+  <img src="family1.jpg" alt="my family">
+  <img src="family2.jpg" alt="my family">  
+  <img src="family3.jpg" alt="my family">
+  <img src="family4.jpg" alt="my family">
+  <img src="family5.jpg" alt="my family">
+  <img src="family6.jpeg" alt="my family">
+  <img src="family7.jpeg" alt="my family">
+</div>
+</div>
+
+</body>
+</html>

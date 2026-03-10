@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Developer Updates! ૮ ˶ᵔ ᵕ ᵔ˶ ა</title>
+<link rel="stylesheet" href="stlyesqtr4.css" type="text/css">
+</head>
+
+<body class="homepage">
+
+<header>
+<nav>
+<div class="nav">
+<h1>「✔ Updates Loaded!」</h1>
+</div>
+</nav>
+</header>
+
+<section class="options">
+<h2 class="h2">Check out the following:</h2>
+<div class="categories">
+<div class="search-item">
+<a href="events.html" target="_self"><img src="events4th.gif" alt="3rd4thevents"><p>3rd &amp; 4th QTR events ᯓ★</p></a>
+</div>
+<div class="search-item">
+<a href="nolipresentation.html" target="_self"><img src="IHHNOLI.png" alt="noliplay"><p> Noli Me Tangere Performance 📜🪶</p></a>
+</div>
+<div class="search-item">
+<a href="APLESSONS.html" target="_self"><img src="ap4TH.gif" alt="AP lessons4th"><p>4th QTR AP Lessons $ˎˊ˗</p></a>
+</div>
+<div class="search-item">
+<a href="ICTLESSONS.html" target="_self"><img src="ict4th.gif" alt="ICTCONTENT"><p> ICT Contents 🖳</p></a>
+</div>
+</div>
+</section>
+
+
+
+</body>
+</html>
+
+
