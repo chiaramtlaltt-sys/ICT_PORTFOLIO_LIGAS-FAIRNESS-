@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> AP 𓂃✍︎</title>
+<link rel="stylesheet" href="stlyesqtr4.css" type="text/css">
+</head>
+
+<body class="APbdy">
+
+<header>
+<nav>
+<div class="nav">
+<a href="APLESSONS.html" target="_self">✧ ↩ PREVIOUS PAGE ✧</a>
+<a href="homepage.html" target="_self">☽ HOMEPAGE ☾</a>
+<a href="mailto:chiaramtlaltt@gmail.com" target="_blank">✉ E-MAIL ME! ✉</a>
+</div>
+</nav>
+</header>
+
+<div class="container2">
+<div class="headerfrnd">
+<div style="background-color:white; text-align:center; border-radius: 5px;">
+<h1> KALAKALANG PANLABAS </h1>
+</div>
+</div>
+<div class="container">
+<div class="textap">
+<ul> 
+<h1><b>DAHILAN NG KALAKALANG PANLABAS</b></h1>
+<li>Pagkakaiba ng Teknolohiya</li>
+<li>Pagkakaiba sa Pinagkukunang Yaman</li>
+<li>Pagkakaiba sa Panlasa</li>
+<li>Pagkakaiba sa Halaga ng Produksyon</li>
+</ul>
+</div>
+<div class="container3">
+<div class="textap" style="height: 90px;">
+<p>
+Palitan ng produkto at serbisyo sa pagitan ng mga bansa
+</p>
+</div>
+<div class="textap" style="height: 90px;">
+<p>
+Ito ay nagaganap sapagkat walang bansa ang maaaring makatugon sa lahat ng kanyang pangangailangan ng walang tulong mula sa ibang bansa. 
+</p>
+</div>
+<div class="textap" style="height: 90px;">
+<p>
+Bilateral: 2 bansa (hal. U.S at PH)
+</p>
+</div>
+<div class="textap" style="height: 90px;">
+<p>
+Bloc: Pagpalitan ng isang organisasyon at 1 bansa o 1 organization at isa pang organization (hal. APEC at PH)
+</p>
+</div>
+<div class="textap" style="height: 90px;">
+<p>
+EKSPORT (Pagluluwas): pagpapadala ng mga produkto at serbisyo sa ibang bansa
+</p>
+</div>
+<div class="textap" style="height: 90px;">
+<p>
+IMPORT (Pag-aangkat): pagbili ng kalakal mula sa ibang bansa
+</p>
+</div>
+</div>
+</div>
+
+<div style="background-color:white; text-align:center; border-radius: 5px;">
+<h1> MGA KAUGNAY </h1>
+</div>
+<div class="container">
+<div class="textap">
+<ul> 
+<h1><b>DAHILAN NG KALAKALANG PANLABAS</b></h1>
+<li>Pagkakaiba ng Teknolohiya</li>
+<li>Pagkakaiba sa Pinagkukunang Yaman</li>
+<li>Pagkakaiba sa Panlasa</li>
+<li>Pagkakaiba sa Halaga ng Produksyon</li>
+</ul>
+</div>
+</div>
+<div style="background-color:white; text-align:center; border-radius: 5px;">
+<h1>PATAKARANG UMAAPEKTO SA KALAKALANG PANLABAS</h1>
+</div>
+<hr>
+<div class="container">
+<div class="textap">
+<ul> 
+<h1><b>Taripa/Tariff: </b></h1>
+<li>Buwis sa mga produktong inaangkat</li>
+<li>Nagpapataas ng presyo at nagpapababa ng benta ng inaangkat ng produkto</li>
+<li>Nagpapataw ng mataas na taripa pang mapigil ang pagpasok ng dayuhang produktong kalaban ng lokal na produkto</li>
+<li>Ipinapataw upang makalikom ng karagdagang pondo</li>
+</ul>
+</div>
+</div>
+
+<hr>
+<div class="container">
+<div class="textap">
+<ul> 
+<h1><b>Kota: (Quota)</b></h1>
+<li>Maaaring limitahan (kotahan) ang pagpasok ng mga kalabang produkto</li>
+
+</ul>
+</div>
+<div class="textap">
+<ul> 
+<h1><b>Subsidy:</b></h1>
+<li>Tulong na ibinibigay ng gobyerno upang bumaba ang halaga ng produksyon ng mga lokal na produkto.</li>
+</ul>
+</div>
+</div>
+<hr>
+<div class="container">
+<div class="textap">
+<ul> 
+<h1><b>KABUTIHAN NG PAKIKIPAGKALAKALAN</b></h1>
+<li>Mas maraming produkto ang mapagpipilian sa pamilihan.</li>
+<li>Napapataas nito ang kalidad ng mga produkto na nabibili sa pamilihan</li>
+<li>Nagkakaroon ng pagkakaunawaan ang mamamayan ng bansang nakikipagkalakalan.</li>
+<li>Lumalawak ang pamilihan ng mga produkto sa bansa.</li>
+</ul>
+</div>
+<div class="textap">
+<ol> 
+<h1><b>DI- KABUTIHAN NG PAKIKIPAGKALAKALAN</b></h1>
+<li>Nagiging palaasa ang mga mamamayan sa produktong imported</li>
+<li>Hindi nalilinang ang pagkamalikhain ng mga mamamayan dahil umaasa na lamang sila sa mga produktong gawa sa ibang bansa</li>
+<li>Pagkawala ng sariling pagkakakilanlan bunga ng pagpasok ng dayuhang kultura sa lipunan</li>
+</ol>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
