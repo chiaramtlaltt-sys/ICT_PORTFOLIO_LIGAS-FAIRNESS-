@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> NOLI __-_🖋</title>
+<link rel="stylesheet" href="stlyesqtr4.css" type="text/css">
+</head>
+
+<body class="nolibdy">
+
+<header>
+<nav>
+<div class="nav">
+<a href="nolipresentation.html" target="_self">✧ ↩ PREVIOUS PAGE ✧</a>
+<a href="homepage.html" target="_self">☽ HOMEPAGE ☾</a>
+<a href="mailto:chiaramtlaltt@gmail.com" target="_blank">✉ E-MAIL ME! ✉</a>
+</div>
+</nav>
+</header>
+
+
+<div class="containerfmly">
+<div class="nav2">
+<h1> Ibarra: Himig ng Himgasikan (BLOOPERZ)</h1>
+</div>
+<div class="topfmly">
+<video autoplay controls loop style="length: 3000px; width: 1500px;"> 
+<source src="02_25_26 - Prologue.MOV" type="video/mp4">
+</video>
+</div>
+</div>
+<hr>
+<div class="topfmly">
+<video autoplay controls loop style="length: 3000px; width: 1500px;"> 
+<source src="02_26_26 - Renz as Consolacion Part 1.MOV" type="video/mp4">
+</video>
+</div>
+</div>
+</div>
+
+
+
+</body>
+</html>

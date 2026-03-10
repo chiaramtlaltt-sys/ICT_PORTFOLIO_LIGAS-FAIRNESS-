@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> AP 𓂃✍︎</title>
+<link rel="stylesheet" href="stlyesqtr4.css" type="text/css">
+</head>
+
+<body class="APbdy">
+
+<header>
+<nav>
+<div class="nav">
+<a href="devupdate.html" target="_self">✧ ↩ PREVIOUS PAGE ✧</a>
+<a href="homepage.html" target="_self">☽ HOMEPAGE ☾</a>
+<a href="mailto:chiaramtlaltt@gmail.com" target="_blank">✉ E-MAIL ME! ✉</a>
+</div>
+</nav>
+</header>
+
+<div class="container2">
+<div class="headerfrnd">
+<div style="background-color:white; text-align:center; border-radius: 5px;">
+<h1> AP 4th QTR Lessons ⋆｡°✎ᝰ ˎˊ˗</h1>
+</div>
+</div>
+<div class="container">
+<div class="search-item">
+<a href="Lesson_1AP.html" target="_self"><img src="kaunlaran_ap.jpg" alt="lesson1"><p>Lesson 1 ✎ᝰ.</p></a>
+</div>
+<div class="textap">
+<section class="options">
+<div class="categories">
+
+<div class="search-item">
+<a href="Lesson_1AP.html" target="_self"><img src="kaunlaran_ap.jpg" alt="lesson1"><p>Lesson 1 ✎ᝰ.</p></a>
+</div>
+<div class="search-item">
+<a href="Lesson_2AP.html" target="_self"><img src="agrikultura_ap.jpg" alt="lesson2"><p>Lesson 2 ✎ᝰ.</p></a>
+</div>
+</div>
+<div class="search-item">
+<a href="Lesson_3AP.html" target="_self"><img src="industriya_ap.jpg" alt="lesson3"><p> Lesson 3 ✎ᝰ.</p></a>
+</div>
+</div>
+</section>
+<div class="textap">
+<section class="options">
+<div class="categories">
+
+<div class="search-item">
+<a href="Lesson_4AP.html" target="_self"><img src="serbisyo_ap.jpg" alt="lesson4"><p>Lesson 4 ✎ᝰ.</p></a>
+</div>
+<div class="search-item">
+<a href="Lesson_5AP.html" target="_self"><img src="informal_ap.jpg" alt="lesson5"><p> Lesson 5 ✎ᝰ.</p></a>
+</div>
+</div>
+<div class="search-item">
+<a href="Lesson_6AP.html" target="_self"><img src="kalakalan_ap.jpg" alt="lesson6"><p> Lesson 6 ✎ᝰ.</p></a>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>
